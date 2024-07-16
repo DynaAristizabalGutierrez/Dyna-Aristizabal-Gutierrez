@@ -18,9 +18,6 @@ Actualmente, estoy buscando oportunidades para aplicar mis conocimientos y contr
 
 ## 📈 Proyectos Destacados
 
-### [Proyecto 1: Análisis de Ventas con Excel](https://github.com/tuusuario/proyecto-ventas-excel)
-Descripción breve del proyecto, destacando el objetivo y los resultados obtenidos.
-
 ### [Proyecto 2: Dashboard Financiero en Power BI](https://github.com/tuusuario/proyecto-dashboard-powerbi)
 Descripción breve del proyecto, destacando el objetivo y los resultados obtenidos.
 
