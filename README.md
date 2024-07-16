@@ -35,8 +35,8 @@ Descripción breve del proyecto, destacando el objetivo y los resultados obtenid
 
 ## 📫 Conéctate Conmigo
 
-- [ LinkedIn Dyna Aristizábal ](https://www.linkedin.com/in/dyna-aristizabal/)
-- [ Correo Electrónico ](https://ing.sistemas.dynaaristizabal@gmail.com/)
+- [ Visita mi LinkedIn ](https://www.linkedin.com/in/dyna-aristizabal/)
+- [ Escríbeme a mi Correo Electrónico ](https://ing.sistemas.dynaaristizabal@gmail.com/)
 - [ WhatsApp y/o Llamada Telefónicas  ] (https://wa.me/+573226956225)
   
 
